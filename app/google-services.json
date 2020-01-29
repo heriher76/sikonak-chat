@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801150442233",
+    "firebase_url": "https://sikonak-chat-7e868.firebaseio.com",
+    "project_id": "sikonak-chat-7e868",
+    "storage_bucket": "sikonak-chat-7e868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801150442233:android:950e2768c3dfa6d1fb2028",
+        "android_client_info": {
+          "package_name": "com.heriher76.sikonak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801150442233-3mt34r1qf9scfdehb07094eu31ft2tbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2AOwQEKM51DBWgf6KwmKQ9FL5qcBWqhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801150442233-3mt34r1qf9scfdehb07094eu31ft2tbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
