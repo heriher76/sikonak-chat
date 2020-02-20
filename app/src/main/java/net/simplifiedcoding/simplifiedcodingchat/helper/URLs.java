@@ -5,7 +5,7 @@ package net.simplifiedcoding.simplifiedcodingchat.helper;
  */
 public class URLs {
 
-    public static final String ROOT_URL = "http://192.168.0.103/sikonak-api/public/api/";
+    public static final String ROOT_URL = "https://api.sikonak.com/api/";
 
     public static final String URL_REGISTER = ROOT_URL + "register";
     public static final String URL_STORE_TOKEN = ROOT_URL + "users/storegcmtoken";

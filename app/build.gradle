@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "net.simplifiedcoding.simplifiedcodingchat"
+        applicationId "com.heriher76.sikonak"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
